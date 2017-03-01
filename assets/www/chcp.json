@@ -1,0 +1,8 @@
+{
+  "name": "HelloWord",
+  "ios_identifier": "",
+  "android_identifier": "",
+  "update": "start",
+  "content_url": "http://localhost:8080/work/chcp.json",
+  "release": "2016.11.28-14.47.09"
+}

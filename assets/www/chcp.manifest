@@ -1,0 +1,22 @@
+[
+  {
+    "file": "css/index.css",
+    "hash": "e46d9a1c456a9c913ca10f3c16d50000"
+  },
+  {
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
+    "file": "index.html",
+    "hash": "311958b2164cf2981b51a42ae11061b8"
+  },
+  {
+    "file": "js/index.js",
+    "hash": "743629451926a73740f34cc0ca1c33e2"
+  },
+  {
+    "file": "plugins/toast.js",
+    "hash": "2c1aa4c8c96b1ae855f91a05e9fba673"
+  }
+]
